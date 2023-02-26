@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tenizz/tenizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # :trident: About Me:
-🔭 I’m currently working on some Pet Projects<br>🌱 I’m currently learning OOP in Java<br>:earth: I'm from Kazakhstan :kz: but right now studying in US :us:
+🔭 I’m currently working on some Pet Projects<br>🌱 I’m currently learning OOP in Java<br>:earth_africa: I'm from Kazakhstan :kz: but right now studying in US :us:
 
 
 # 💻 Tech Stack:
