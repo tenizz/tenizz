@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # :trident: About Me:
-🔭 I’m currently working on some Pet Projects<br>🌱 I’m currently learning OOP in Java<br>:earth_africa: I'm from Kazakhstan :kazakhstan: but right now studying in the US :us:
+🔭 I’m currently working on my own Pet Project [flowers](https://github.com/tenizz/flowers) <br>🌱 I’m currently learning OOP in Java<br>:earth_africa: I'm from Kazakhstan :kazakhstan: but right now studying in the US :us:
 
 
 # 💻 Tech Stack:
