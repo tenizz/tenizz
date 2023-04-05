@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # :trident: About Me:
-🔭 I’m currently working on my own pet project clicker game on Java: [Flowers :hibiscus:](https://github.com/tenizz/flowers) <br>🌱 I’m currently learning OOP in Java<br>:earth_africa: I'm from Kazakhstan :kazakhstan: but right now studying in the US :us:
+🔭 I’m currently working on my own pet project clicker game on Java: [Flowers :hibiscus:](https://github.com/tenizz/flowers) <br>🌱 I’m currently learning OOP in Java<br>:earth_africa: I'm from Kazakhstan :kazakhstan: but right now studying in the US :us:<br>:list: My projects: [Restaurant Website](https://github.com/tenizz/restaurant),  <br>
 
 
 # 💻 Tech Stack:
