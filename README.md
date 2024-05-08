@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 <!-- [Flowers :hibiscus:](https://github.com/tenizz/flowers) -->
 # :trident: About Me:
-🔭 I’m currently working on   <br>🌱 I’m currently learning OOP in Java<br>:earth_africa: I'm from Kazakhstan :kazakhstan: but right now studying in the US :us:<br>🧾 My projects: [Tower Defense Game](https://github.com/tenizz/SpaceFighter/tree/main), [Restaurant Website](https://github.com/tenizz/restaurant), [Birth Date In Seconds](https://github.com/tenizz/birth-in-sec), [Snake Game](https://github.com/tenizz/snakegame)   <br>
+<!-- 🔭 I’m currently working on  -->
+<br>🌱 I’m currently learning Data Sctructures and Algorithms <br>:earth_africa: I'm from Kazakhstan :kazakhstan: but right now studying in the US :us:<br>🧾 My projects: [Tower Defense Game](https://github.com/tenizz/SpaceFighter/tree/main), [Restaurant Website](https://github.com/tenizz/restaurant), [Birth Date In Seconds](https://github.com/tenizz/birth-in-sec), [Snake Game](https://github.com/tenizz/snakegame)   <br>
 
 
 # 💻 Tech Stack:
